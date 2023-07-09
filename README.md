@@ -2,7 +2,7 @@
 
 # I'm a QA Software Engineer. You can reach me at [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nostawenka@gmail.com)](mailto:nostawenka@gmail.com)
 
-[Link to my CV](https://docs.google.com/document/d/1kZPh0a4NA7TREY8dfIf3on1r9AN7FW4svVSG9bynQYY/edit?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1vFMrIqBxKr6Q0P3A5GRWMNVSK1BA4AQb/view?usp=drive_link)
 
 # Languages and Tools I'm using 
 
