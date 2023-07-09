@@ -24,8 +24,7 @@
 # Follow me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/natalia-vinogradova)
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=0088CC)](https://t.me/nostawenka)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=C13584)](https://www.instagram.com/nostawenka)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=Vk&logoColor=5181B8)](https://vk.com/nostawenka)
+
 
 ![Nostawenka's GitHub stats](https://github-readme-stats.vercel.app/api?username=nostawenka&show_icons=true&theme=synthwave&title_color=008FF)
 
