@@ -28,3 +28,5 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=Vk&logoColor=5181B8)](https://vk.com/nostawenka)
 
 ![Nostawenka's GitHub stats](https://github-readme-stats.vercel.app/api?username=nostawenka&show_icons=true&theme=synthwave&title_color=008FF)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nostawenka)](https://github.com/nostawenka/github-profile-trophy)
