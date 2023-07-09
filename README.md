@@ -17,7 +17,7 @@
 ![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=007DA4)
 ![Apache JMeter](https://img.shields.io/badge/-ApacheJMeter-000000?style=for-the-badge&logo=ApacheJMeter&logoColor=E53D0A)
 ![Rabbit MQ](https://img.shields.io/badge/-RabbitMQ-000000?style=for-the-badge&logo=RabbitMQ&logoColor=FF6F00)
-![Chrome DevTools](https://img.shields.io/badge/-ChromeDevTools-000000?style=for-the-badge&logo=ChromeDevTools&logoColor=FF3333)
+![DevTools](https://img.shields.io/badge/-DevTools-000000?style=for-the-badge&logo=DevTools&logoColor=FF3333)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=VSCodeode&logoColor=FF3333)
 
 
