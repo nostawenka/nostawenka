@@ -1,4 +1,4 @@
-[![Header](https://github.com/nostawenka/nostawenka/blob/main/assets/header.png)
+![giphy](https://github.com/nostawenka/nostawenka/assets/103023958/85dffb76-4aa2-48c6-be0b-ff6e8044b98b)
 
 # I'm a QA Software Engineer
 
