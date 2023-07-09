@@ -1,6 +1,6 @@
 ![giphy](https://github.com/nostawenka/nostawenka/assets/103023958/85dffb76-4aa2-48c6-be0b-ff6e8044b98b)
 
-# I'm a QA Software Tester. You can reach me at [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nostawenka@gmail.com)](mailto:nostawenka@gmail.com)
+# I'm a QA Software Engineer. You can reach me at [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nostawenka@gmail.com)](mailto:nostawenka@gmail.com)
 
 # Languages and Tools I'm using 
 
