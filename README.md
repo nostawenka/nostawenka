@@ -24,7 +24,7 @@
 
 
 # Follow me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/natalia-vinogradova)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/nostawenka)
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=0088CC)](https://t.me/nostawenka)
 
 
