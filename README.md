@@ -24,7 +24,6 @@
 
 #Bug reports, test cases
 
-![Test case for Walmart online store purchase](https://docs.google.com/spreadsheets/d/1HHNFqYZrre-GxhR0AX0UoYEyjOUqY4_UU87o3kJWjys/edit?usp=sharing)
 
 # Follow me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/nostawenka)
