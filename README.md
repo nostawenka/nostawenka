@@ -22,6 +22,8 @@
 ![Devtools](https://img.shields.io/badge/-Devtools-000000?style=for-the-badge&logo=googlechrome&logoColor=FF3333)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=VSCodeode&logoColor=FF3333)
 
+#Bug reports, test cases
+(https://docs.google.com/spreadsheets/d/1HHNFqYZrre-GxhR0AX0UoYEyjOUqY4_UU87o3kJWjys/edit?usp=sharing)
 
 # Follow me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/nostawenka)
