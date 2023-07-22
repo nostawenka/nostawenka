@@ -22,6 +22,8 @@
 ![Devtools](https://img.shields.io/badge/-Devtools-000000?style=for-the-badge&logo=googlechrome&logoColor=FF3333)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=VSCodeode&logoColor=FF3333)
 
+#Bug reports, test cases
+
 # Testing documentation
 - Bug reports 
 - Test cases (https://github.com/nostawenka/Test-cases)
