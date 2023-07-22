@@ -1,6 +1,8 @@
-[![Header](https://github.com/nostawenka/nostawenka/blob/main/assets/header.png)
+![giphy](https://github.com/nostawenka/nostawenka/assets/103023958/85dffb76-4aa2-48c6-be0b-ff6e8044b98b)
 
-# I'm a QA Software Engineer
+# I'm a QA Software Engineer. You can reach me at [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nostawenka@gmail.com)](mailto:nostawenka@gmail.com)
+
+[Link to my CV](https://drive.google.com/file/d/1UCD_GF2Ri2ZYQdmszttzixXQZIBAbpQv/view?usp=sharing)
 
 # Languages and Tools I'm using 
 
@@ -17,15 +19,17 @@
 ![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=007DA4)
 ![Apache JMeter](https://img.shields.io/badge/-ApacheJMeter-000000?style=for-the-badge&logo=ApacheJMeter&logoColor=E53D0A)
 ![Rabbit MQ](https://img.shields.io/badge/-RabbitMQ-000000?style=for-the-badge&logo=RabbitMQ&logoColor=FF6F00)
-![Chrome DevTools](https://img.shields.io/badge/-ChromeDevTools-000000?style=for-the-badge&logo=ChromeDevTools&logoColor=FF3333)
+![Devtools](https://img.shields.io/badge/-Devtools-000000?style=for-the-badge&logo=googlechrome&logoColor=FF3333)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=VSCodeode&logoColor=FF3333)
 
+# Testing documentation
+- Bug reports 
+- Test cases (https://github.com/nostawenka/Test-cases)
 
 # Follow me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/natalia-vinogradova)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/nostawenka)
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=0088CC)](https://t.me/nostawenka)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=C13584)](https://www.instagram.com/nostawenka)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=Vk&logoColor=5181B8)](https://vk.com/nostawenka)
+
 
 ![Nostawenka's GitHub stats](https://github-readme-stats.vercel.app/api?username=nostawenka&show_icons=true&theme=synthwave&title_color=008FF)
 
