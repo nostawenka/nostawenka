@@ -25,8 +25,10 @@
 #Bug reports, test cases
 
 # Testing documentation
-- Bug reports 
-- Test cases (https://github.com/nostawenka/Test-cases)
+- [Bug reports]
+- [Test cases] (https://github.com/nostawenka/Test-cases)
+- [Autotests]
+- [Javascript project] ()
 
 # Follow me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/nostawenka)
